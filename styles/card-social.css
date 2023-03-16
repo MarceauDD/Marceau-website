@@ -1,0 +1,6 @@
+.cards-social {
+	display: grid;
+	grid-row: 1fr;
+	grid-gap: 16px;
+}
+
